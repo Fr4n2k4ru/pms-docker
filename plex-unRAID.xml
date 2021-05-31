@@ -58,7 +58,7 @@
       <Mode>rw</Mode>
     </Volume>
   </Data>
-<WebUI>http://[IP]:[PORT:32400]/web</WebUI>
+<WebUI>http://54.188.58.117:32400/web</WebUI>
 <Icon>https://raw.githubusercontent.com/plexinc/pms-docker/master/img/plex-server.png</Icon>
 <ExtraParams></ExtraParams>
 </Container>
